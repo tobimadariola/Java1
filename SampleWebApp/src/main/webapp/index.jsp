@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>Mayowa is a good guy, he no just get sense</title>
+    <title>Akeem_java_project</title>
   </head>
   <body bgcolor="#7FFF00">
-    <h1>Hello Bisi is my best friend in the US  </h1>
+    <h1>Jenkins is CI/CD pipeline tools, it helps to integrate devops tools to automate delivery of application or software.  </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Let us learn something about your music lifestyle </p> <!--This control is for mutplie line comment-->
