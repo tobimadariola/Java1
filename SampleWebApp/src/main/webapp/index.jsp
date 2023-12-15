@@ -6,14 +6,14 @@
     <h1>Jenkins is CI/CD pipeline tools, it helps to integrate devops tools to automate delivery of application or software.  </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
-            <p>Let us learn something about your music lifestyle </p> <!--This control is for mutplie line comment-->
+            <p>Tell me what you understand by CI/CD pipeline and relate it to DevOps </p> <!--This control is for mutplie line comment-->
             <textarea name="comments" cols="30" rows="5"></textarea>
 
-            <p>select your favourite genre of music <br /> <!--Radion control. only one selection possible-->
-                <input type ="radio" name="genre" value="rock" checked="checked"/>Rock <br />
-                <input type ="radio" name="genre" value="pop"/>Pop <br />
-                <input type ="radio" name="genre" value="raggae"/>Reggae <br />
-                <input type ="radio" name="genre" value="jazz"/>Jazz <br />
+            <p>pick your favorite class module in cloud_convo academy <br /> <!--Radion control. only one selection possible-->
+                <input type ="radio" name="genre" value="linux server" checked="checked"/>DevOps <br />
+                <input type ="radio" name="genre" value="cloud"/>cloud <br />
+                <input type ="radio" name="genre" value="DevOps"/>DevOps <br />
+                <input type ="radio" name="genre" value="Python"/>Python <br />
             </p>
 
             <p>select your favourite music service <br /> <!--Checkbox control-->
