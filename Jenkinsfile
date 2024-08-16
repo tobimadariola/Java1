@@ -1,12 +1,7 @@
 pipeline {
     agent any
 
-   tools {
-        maven 'maven'
-    }
-    
-    
-    stages {
+   stages {
         stage('Test') {
             steps {
                 sh 'cd SampleWebApp && mvn test'
